@@ -1,992 +1,913 @@
 [
   {
-    "symbol": "USDT-USDC",
-    "name": "Saber USDT-USDC LP",
-    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/2poo1w1DL6yd2WNTCnNTzDqkC6MBXq7axo77P16yrBuf/icon.png",
-    "decimals": 6,
-    "address": "2poo1w1DL6yd2WNTCnNTzDqkC6MBXq7axo77P16yrBuf",
+    "symbol": "sun-USDCbs-USDC",
+    "name": "Sunny Saber USDCbs-USDC LP",
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/23SJVf6PRAe9VbmbLi6sajSnxVP4TnCRMNYkkfV6VM9a/icon.png",
+    "decimals": 8,
+    "address": "23SJVf6PRAe9VbmbLi6sajSnxVP4TnCRMNYkkfV6VM9a",
+    "chainId": 101,
+    "tags": [
+      "saber-stableswap-lp",
+      "saber-lp-wormhole-v2"
+    ],
+    "extensions": {
+      "website": "https://app.sunny.ag"
+    }
+  },
+  {
+    "symbol": "sun-prtSOL-SOL",
+    "name": "Sunny Saber prtSOL-SOL LP",
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/2jpwA28K9fokPpkEaJrR8CUVXk2vR1MphA9hUb3vyH7H/icon.png",
+    "decimals": 9,
+    "address": "2jpwA28K9fokPpkEaJrR8CUVXk2vR1MphA9hUb3vyH7H",
     "chainId": 101,
     "tags": [
       "saber-stableswap-lp"
     ],
     "extensions": {
-      "website": "https://app.saber.so/#/pools/usdc_usdt"
+      "website": "https://app.sunny.ag"
     }
   },
   {
-    "symbol": "aeUSDC-USDC",
-    "name": "Saber aeUSDC-USDC LP",
-    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/AECpyKJWfXVyWnk2d9md5dUj3RuzHRKfQra8MakjuVRz/icon.png",
+    "symbol": "sun-aSOL-SOL",
+    "name": "Sunny Saber aSOL-SOL LP",
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/2saGyuRCVBkNqaJthYzsXBg6c7frdBbzxR1NpGoe4rEq/icon.png",
     "decimals": 9,
-    "address": "AECpyKJWfXVyWnk2d9md5dUj3RuzHRKfQra8MakjuVRz",
-    "chainId": 101,
-    "tags": [
-      "saber-stableswap-lp",
-      "saber-lp-allbridge"
-    ],
-    "extensions": {
-      "website": "https://app.saber.so/#/pools/aeusdc"
-    }
-  },
-  {
-    "symbol": "ETH-aeWETH",
-    "name": "Saber ETH-aeWETH LP",
-    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/AET3m1Mp2SLi7QX3tSypcZWyEtk1d8dUGcwhweDiZdaR/icon.png",
-    "decimals": 9,
-    "address": "AET3m1Mp2SLi7QX3tSypcZWyEtk1d8dUGcwhweDiZdaR",
-    "chainId": 101,
-    "tags": [
-      "saber-stableswap-lp",
-      "saber-lp-allbridge"
-    ],
-    "extensions": {
-      "website": "https://app.saber.so/#/pools/aeeth"
-    }
-  },
-  {
-    "symbol": "aSOL-SOL",
-    "name": "Saber aSOL-SOL LP",
-    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/ALP89a89ASo1h5VosTSABtQBKLBgeoaWQexYQrRCMNfV/icon.png",
-    "decimals": 9,
-    "address": "ALP89a89ASo1h5VosTSABtQBKLBgeoaWQexYQrRCMNfV",
+    "address": "2saGyuRCVBkNqaJthYzsXBg6c7frdBbzxR1NpGoe4rEq",
     "chainId": 101,
     "tags": [
       "saber-stableswap-lp"
     ],
     "extensions": {
-      "website": "https://app.saber.so/#/pools/asol"
+      "website": "https://app.sunny.ag"
     }
   },
   {
-    "symbol": "afUSDC-USDC",
-    "name": "Saber afUSDC-USDC LP",
-    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/ALP8mkba7FHrpn18hGMRURF1aRNS7P2y1SRzqE6ra3Zo/icon.png",
-    "decimals": 9,
-    "address": "ALP8mkba7FHrpn18hGMRURF1aRNS7P2y1SRzqE6ra3Zo",
-    "chainId": 101,
-    "tags": [
-      "saber-stableswap-lp",
-      "saber-lp-allbridge"
-    ],
-    "extensions": {
-      "website": "https://app.saber.so/#/pools/afusdc"
-    }
-  },
-  {
-    "symbol": "aeFEI-UST",
-    "name": "Saber aeFEI-UST LP",
-    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/ALPDpWSYbwNkkuVB3wd1nZx7dZBLV7fEGvbDu9KJxLik/icon.png",
-    "decimals": 9,
-    "address": "ALPDpWSYbwNkkuVB3wd1nZx7dZBLV7fEGvbDu9KJxLik",
-    "chainId": 101,
-    "tags": [
-      "saber-stableswap-lp",
-      "saber-lp-allbridge"
-    ],
-    "extensions": {
-      "website": "https://app.saber.so/#/pools/fei_ust"
-    }
-  },
-  {
-    "symbol": "afETH-ETH",
-    "name": "Saber afETH-ETH LP",
-    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/ALPGFAuqQsWDB8NSKQ7rgQVhShj4LBCNC72ebdZrJs2e/icon.png",
-    "decimals": 9,
-    "address": "ALPGFAuqQsWDB8NSKQ7rgQVhShj4LBCNC72ebdZrJs2e",
-    "chainId": 101,
-    "tags": [
-      "saber-stableswap-lp",
-      "saber-lp-allbridge"
-    ],
-    "extensions": {
-      "website": "https://app.saber.so/#/pools/afeth"
-    }
-  },
-  {
-    "symbol": "abUSDC-USDC",
-    "name": "Saber abUSDC-USDC LP",
-    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/ALPX6x8FkkdQyn9YuoVZjPAapL4nUC7vjJ3AtwStmj9P/icon.png",
-    "decimals": 9,
-    "address": "ALPX6x8FkkdQyn9YuoVZjPAapL4nUC7vjJ3AtwStmj9P",
-    "chainId": 101,
-    "tags": [
-      "saber-stableswap-lp",
-      "saber-lp-allbridge"
-    ],
-    "extensions": {
-      "website": "https://app.saber.so/#/pools/abusdc"
-    }
-  },
-  {
-    "symbol": "abUSDT-USDT",
-    "name": "Saber abUSDT-USDT LP",
-    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/ALPaPPo6xmeGv3a63Pc4S8NJFAAuchhD7XnkkWJqzvXJ/icon.png",
-    "decimals": 9,
-    "address": "ALPaPPo6xmeGv3a63Pc4S8NJFAAuchhD7XnkkWJqzvXJ",
-    "chainId": 101,
-    "tags": [
-      "saber-stableswap-lp",
-      "saber-lp-allbridge"
-    ],
-    "extensions": {
-      "website": "https://app.saber.so/#/pools/abusdt"
-    }
-  },
-  {
-    "symbol": "aeFEI-CASH",
-    "name": "Saber aeFEI-CASH LP",
-    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/ALPaX3bS8zPKsVN6eS7Ln7dvEbDAfDtXsLz5pe2JRddq/icon.png",
-    "decimals": 9,
-    "address": "ALPaX3bS8zPKsVN6eS7Ln7dvEbDAfDtXsLz5pe2JRddq",
-    "chainId": 101,
-    "tags": [
-      "saber-stableswap-lp",
-      "saber-lp-allbridge"
-    ],
-    "extensions": {
-      "website": "https://app.saber.so/#/pools/fei_cash"
-    }
-  },
-  {
-    "symbol": "abBTCB-renBTC",
-    "name": "Saber abBTCB-renBTC LP",
-    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/ALPb4SssuKFScyUFnTcXLtF3NAkwFuFpQFric5yo4Qpo/icon.png",
-    "decimals": 9,
-    "address": "ALPb4SssuKFScyUFnTcXLtF3NAkwFuFpQFric5yo4Qpo",
-    "chainId": 101,
-    "tags": [
-      "saber-stableswap-lp",
-      "saber-lp-allbridge"
-    ],
-    "extensions": {
-      "website": "https://app.saber.so/#/pools/abbtcb"
-    }
-  },
-  {
-    "symbol": "aeMIM-UST",
-    "name": "Saber aeMIM-UST LP",
-    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/ALPfb7HJd4oenNBknjzCbVc2RooC5N1H6N391hbZ82ky/icon.png",
-    "decimals": 9,
-    "address": "ALPfb7HJd4oenNBknjzCbVc2RooC5N1H6N391hbZ82ky",
-    "chainId": 101,
-    "tags": [
-      "saber-stableswap-lp",
-      "saber-lp-allbridge"
-    ],
-    "extensions": {
-      "website": "https://app.saber.so/#/pools/mim_ust"
-    }
-  },
-  {
-    "symbol": "abETH-ETH",
-    "name": "Saber abETH-ETH LP",
-    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/ALPi51sXwH9kNcQuneDwz7kPzJs3hJ5xV6SmnuyqodQP/icon.png",
-    "decimals": 9,
-    "address": "ALPi51sXwH9kNcQuneDwz7kPzJs3hJ5xV6SmnuyqodQP",
-    "chainId": 101,
-    "tags": [
-      "saber-stableswap-lp",
-      "saber-lp-allbridge"
-    ],
-    "extensions": {
-      "website": "https://app.saber.so/#/pools/abeth"
-    }
-  },
-  {
-    "symbol": "afBTC-renBTC",
-    "name": "Saber afBTC-renBTC LP",
-    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/ALPoQFUuKsoN6P4gLBiKXMSaYFP9YChniKwvKAFRPvn5/icon.png",
-    "decimals": 9,
-    "address": "ALPoQFUuKsoN6P4gLBiKXMSaYFP9YChniKwvKAFRPvn5",
-    "chainId": 101,
-    "tags": [
-      "saber-stableswap-lp",
-      "saber-lp-allbridge"
-    ],
-    "extensions": {
-      "website": "https://app.saber.so/#/pools/afbtc"
-    }
-  },
-  {
-    "symbol": "afDAI-USDC",
-    "name": "Saber afDAI-USDC LP",
-    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/ALPqczrbEXS8k5JF69tEPyu6TTE8qJbiwrzADfjVfKov/icon.png",
-    "decimals": 9,
-    "address": "ALPqczrbEXS8k5JF69tEPyu6TTE8qJbiwrzADfjVfKov",
-    "chainId": 101,
-    "tags": [
-      "saber-stableswap-lp",
-      "saber-lp-allbridge"
-    ],
-    "extensions": {
-      "website": "https://app.saber.so/#/pools/afdai"
-    }
-  },
-  {
-    "symbol": "apUSDC-USDC",
-    "name": "Saber apUSDC-USDC LP",
-    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/APUVVYA8Xf7T1PqLyDvNxLtwQ9rRDf3RUxfMttreVzHP/icon.png",
+    "symbol": "sun-USDT-USDC",
+    "name": "Sunny Saber USDT-USDC LP",
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3BX2cbMzQHTNrwQWcnDjJwpQQ14uq3N5hmg3k2nq5HRE/icon.png",
     "decimals": 6,
-    "address": "APUVVYA8Xf7T1PqLyDvNxLtwQ9rRDf3RUxfMttreVzHP",
-    "chainId": 101,
-    "tags": [
-      "saber-stableswap-lp",
-      "saber-lp-allbridge"
-    ],
-    "extensions": {
-      "website": "https://app.saber.so/#/pools/apusdc"
-    }
-  },
-  {
-    "symbol": "aaWBTC-renBTC",
-    "name": "Saber aaWBTC-renBTC LP",
-    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/AVBDpg1UYpDYQLbzEnRY76R3u82PYHtDuc3NBdFS2k39/icon.png",
-    "decimals": 9,
-    "address": "AVBDpg1UYpDYQLbzEnRY76R3u82PYHtDuc3NBdFS2k39",
-    "chainId": 101,
-    "tags": [
-      "saber-stableswap-lp",
-      "saber-lp-allbridge"
-    ],
-    "extensions": {
-      "website": "https://app.saber.so/#/pools/aawbtc"
-    }
-  },
-  {
-    "symbol": "aaUSDC-USDC",
-    "name": "Saber aaUSDC-USDC LP",
-    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/AVC7uVb6R9B34T8zWxQMEK8twvYk26U71gworsujxFNv/icon.png",
-    "decimals": 9,
-    "address": "AVC7uVb6R9B34T8zWxQMEK8twvYk26U71gworsujxFNv",
-    "chainId": 101,
-    "tags": [
-      "saber-stableswap-lp",
-      "saber-lp-allbridge"
-    ],
-    "extensions": {
-      "website": "https://app.saber.so/#/pools/aausdc"
-    }
-  },
-  {
-    "symbol": "aaDAI-USDC",
-    "name": "Saber aaDAI-USDC LP",
-    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/AVDuGckLavyLr5YifViaxnoveY6rwqDezHw5kiKiRQEC/icon.png",
-    "decimals": 9,
-    "address": "AVDuGckLavyLr5YifViaxnoveY6rwqDezHw5kiKiRQEC",
-    "chainId": 101,
-    "tags": [
-      "saber-stableswap-lp",
-      "saber-lp-allbridge"
-    ],
-    "extensions": {
-      "website": "https://app.saber.so/#/pools/aadai"
-    }
-  },
-  {
-    "symbol": "aaUSDT-USDT",
-    "name": "Saber aaUSDT-USDT LP",
-    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/AVTrxHq5P57fYZTYjMuCRWFqsrLmom2gGThNtgEgK1ip/icon.png",
-    "decimals": 9,
-    "address": "AVTrxHq5P57fYZTYjMuCRWFqsrLmom2gGThNtgEgK1ip",
-    "chainId": 101,
-    "tags": [
-      "saber-stableswap-lp",
-      "saber-lp-allbridge"
-    ],
-    "extensions": {
-      "website": "https://app.saber.so/#/pools/aausdt"
-    }
-  },
-  {
-    "symbol": "wibBTCV1-renBTC",
-    "name": "Saber wibBTC_V1-renBTC LP",
-    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BRENm9SgYJZuCxM4ZJiH6CmZqEBn4MLpD9cnBZDnJgeT/icon.png",
-    "decimals": 9,
-    "address": "BRENm9SgYJZuCxM4ZJiH6CmZqEBn4MLpD9cnBZDnJgeT",
-    "chainId": 101,
-    "tags": [
-      "saber-stableswap-lp",
-      "saber-lp-wormhole-v1"
-    ],
-    "extensions": {
-      "website": "https://app.saber.so/#/pools/ibbtc_ren"
-    }
-  },
-  {
-    "symbol": "BUSDet-USDC",
-    "name": "Saber BUSDet-USDC LP",
-    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BSCNZ4GLnpZYv4BLk5edymk4qty8a6ZpiMbfvtv9gAzL/icon.png",
-    "decimals": 8,
-    "address": "BSCNZ4GLnpZYv4BLk5edymk4qty8a6ZpiMbfvtv9gAzL",
-    "chainId": 101,
-    "tags": [
-      "saber-stableswap-lp",
-      "saber-lp-wormhole-v2"
-    ],
-    "extensions": {
-      "website": "https://app.saber.so/#/pools/webusd"
-    }
-  },
-  {
-    "symbol": "wBUSDv1-USDC",
-    "name": "Saber wBUSD_v1-USDC LP",
-    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BUSDaZjarCrQJLeHpWi7aLaKptdR1S8DFpwdDuuZu9p3/icon.png",
-    "decimals": 9,
-    "address": "BUSDaZjarCrQJLeHpWi7aLaKptdR1S8DFpwdDuuZu9p3",
-    "chainId": 101,
-    "tags": [
-      "saber-stableswap-lp",
-      "saber-lp-wormhole-v1"
-    ],
-    "extensions": {
-      "website": "https://app.saber.so/#/pools/busd"
-    }
-  },
-  {
-    "symbol": "abBUSD-USDC",
-    "name": "Saber abBUSD-USDC LP",
-    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BUSDjE9NEQ15aRFTxKFAjUf5vzqBhEgTNbYevWcSB5qp/icon.png",
-    "decimals": 9,
-    "address": "BUSDjE9NEQ15aRFTxKFAjUf5vzqBhEgTNbYevWcSB5qp",
-    "chainId": 101,
-    "tags": [
-      "saber-stableswap-lp",
-      "saber-lp-allbridge"
-    ],
-    "extensions": {
-      "website": "https://app.saber.so/#/pools/abbusd"
-    }
-  },
-  {
-    "symbol": "PAI-CASH",
-    "name": "Saber PAI-CASH LP",
-    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CLP2aB2bCXZEaoQjUNQdn64dCSzCVxKE3Kjgo3PcAYeY/icon.png",
-    "decimals": 6,
-    "address": "CLP2aB2bCXZEaoQjUNQdn64dCSzCVxKE3Kjgo3PcAYeY",
-    "chainId": 101,
-    "tags": [
-      "saber-stableswap-lp",
-      "saber-lp-cashio"
-    ],
-    "extensions": {
-      "website": "https://app.saber.so/#/pools/pai_cash"
-    }
-  },
-  {
-    "symbol": "CASH-USDC",
-    "name": "Saber CASH-USDC LP",
-    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CLPKiHjoU5HwpPK5L6MBXHKqFsuzPr47dM1w4An3Lnvv/icon.png",
-    "decimals": 6,
-    "address": "CLPKiHjoU5HwpPK5L6MBXHKqFsuzPr47dM1w4An3Lnvv",
+    "address": "3BX2cbMzQHTNrwQWcnDjJwpQQ14uq3N5hmg3k2nq5HRE",
     "chainId": 101,
     "tags": [
       "saber-stableswap-lp"
     ],
     "extensions": {
-      "website": "https://app.saber.so/#/pools/cash"
+      "website": "https://app.sunny.ag"
     }
   },
   {
-    "symbol": "acUSD-CASH",
-    "name": "Saber acUSD-CASH LP",
-    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CLPLCvWFycur9CysMT3pmdkUXxPfBjXVkWyxTGntzoZ7/icon.png",
-    "decimals": 9,
-    "address": "CLPLCvWFycur9CysMT3pmdkUXxPfBjXVkWyxTGntzoZ7",
-    "chainId": 101,
-    "tags": [
-      "saber-stableswap-lp",
-      "saber-lp-cashio"
-    ],
-    "extensions": {
-      "website": "https://app.saber.so/#/pools/acusd_cash"
-    }
-  },
-  {
-    "symbol": "UST-CASH",
-    "name": "Saber UST-CASH LP",
-    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CLPRkuzQFiYnXddGTTKLvqgjgh4Tm7q16sVvivWNRzo8/icon.png",
+    "symbol": "sun-USDCet-USDC",
+    "name": "Sunny Saber USDCet-USDC LP",
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3T6Ftzvt7SLTm2HQXTtDbepsnQUxpAxxHvGWpEuGMgNM/icon.png",
     "decimals": 6,
-    "address": "CLPRkuzQFiYnXddGTTKLvqgjgh4Tm7q16sVvivWNRzo8",
-    "chainId": 101,
-    "tags": [
-      "saber-stableswap-lp",
-      "saber-lp-cashio"
-    ],
-    "extensions": {
-      "website": "https://app.saber.so/#/pools/ust_cash"
-    }
-  },
-  {
-    "symbol": "DAI-USDC",
-    "name": "Saber DAI-USDC LP",
-    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DAihWEjhBc8LEmV1rEekTaiC2zqE5ex7nEFkmoe1Ppp3/icon.png",
-    "decimals": 8,
-    "address": "DAihWEjhBc8LEmV1rEekTaiC2zqE5ex7nEFkmoe1Ppp3",
+    "address": "3T6Ftzvt7SLTm2HQXTtDbepsnQUxpAxxHvGWpEuGMgNM",
     "chainId": 101,
     "tags": [
       "saber-stableswap-lp",
       "saber-lp-wormhole-v2"
     ],
     "extensions": {
-      "website": "https://app.saber.so/#/pools/wdai"
+      "website": "https://app.sunny.ag"
     }
   },
   {
-    "symbol": "wDAIv1-USDC",
-    "name": "Saber wDAI_v1-USDC LP",
-    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Daimhb91DY4e3aVaa7YCW5GgwaMT9j1ALSi2GriBvDNh/icon.png",
+    "symbol": "sun-aaDAI-USDC",
+    "name": "Sunny Saber aaDAI-USDC LP",
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3jzooTwPcXe9jaWrYbHceK1JYX6W2qnkByQer5WRgZ5P/icon.png",
     "decimals": 9,
-    "address": "Daimhb91DY4e3aVaa7YCW5GgwaMT9j1ALSi2GriBvDNh",
-    "chainId": 101,
-    "tags": [
-      "saber-stableswap-lp",
-      "saber-lp-wormhole-v1"
-    ],
-    "extensions": {
-      "website": "https://app.saber.so/#/pools/dai"
-    }
-  },
-  {
-    "symbol": "wFRAXv1-USDC",
-    "name": "Saber wFRAX_v1-USDC LP",
-    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FRAXXvt2ucEsxYPK4nufDy5zKhb2xysieqRBE1dQTqnK/icon.png",
-    "decimals": 9,
-    "address": "FRAXXvt2ucEsxYPK4nufDy5zKhb2xysieqRBE1dQTqnK",
-    "chainId": 101,
-    "tags": [
-      "saber-stableswap-lp",
-      "saber-lp-wormhole-v1"
-    ],
-    "extensions": {
-      "website": "https://app.saber.so/#/pools/frax"
-    }
-  },
-  {
-    "symbol": "FRAX-USDC",
-    "name": "Saber FRAX-USDC LP",
-    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FRXsjEv4jF3r72FgbCXu8uLbPoZGLmCmg3EN1S3cfC4x/icon.png",
-    "decimals": 8,
-    "address": "FRXsjEv4jF3r72FgbCXu8uLbPoZGLmCmg3EN1S3cfC4x",
-    "chainId": 101,
-    "tags": [
-      "saber-stableswap-lp",
-      "saber-lp-wormhole-v2"
-    ],
-    "extensions": {
-      "website": "https://app.saber.so/#/pools/wfrax"
-    }
-  },
-  {
-    "symbol": "wFTTv1-soFTT",
-    "name": "Saber wFTT_v1-soFTT LP",
-    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FTXdV5wFFhceKjcd1JRrRQTT2uB7ruMerAqbj2rj1Mz7/icon.png",
-    "decimals": 9,
-    "address": "FTXdV5wFFhceKjcd1JRrRQTT2uB7ruMerAqbj2rj1Mz7",
-    "chainId": 101,
-    "tags": [
-      "saber-stableswap-lp",
-      "saber-lp-wormhole-v1"
-    ],
-    "extensions": {
-      "website": "https://app.saber.so/#/pools/ftt"
-    }
-  },
-  {
-    "symbol": "aeFTT-FTT",
-    "name": "Saber aeFTT-FTT LP",
-    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FTXjwjwWqituSXEHnL5VF1mjDhZoAyJqvHiRPsRq3KWK/icon.png",
-    "decimals": 9,
-    "address": "FTXjwjwWqituSXEHnL5VF1mjDhZoAyJqvHiRPsRq3KWK",
-    "chainId": 101,
-    "tags": [
-      "saber-stableswap-lp",
-      "saber-lp-wormhole-v2"
-    ],
-    "extensions": {
-      "website": "https://app.saber.so/#/pools/wftt"
-    }
-  },
-  {
-    "symbol": "USDC-acUSDC",
-    "name": "Saber USDC-acUSDC LP",
-    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GEcowHQW46CrEkfAdbcsdt4SV7taCetZF4sFBXN4USDC/icon.png",
-    "decimals": 9,
-    "address": "GEcowHQW46CrEkfAdbcsdt4SV7taCetZF4sFBXN4USDC",
+    "address": "3jzooTwPcXe9jaWrYbHceK1JYX6W2qnkByQer5WRgZ5P",
     "chainId": 101,
     "tags": [
       "saber-stableswap-lp",
       "saber-lp-allbridge"
     ],
     "extensions": {
-      "website": "https://app.saber.so/#/pools/acusdc"
+      "website": "https://app.sunny.ag"
     }
   },
   {
-    "symbol": "wHBTCv1-renBTC",
-    "name": "Saber wHBTC_v1-renBTC LP",
-    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/HBTCNvkwjMsEtwe2PeXUuMcu8C4Hobw6HDP2m6vpWHGo/icon.png",
+    "symbol": "sun-aeFTT-FTT",
+    "name": "Sunny Saber aeFTT-FTT LP",
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/41bWR2kDEEbnbE6SFfabJp7PuTYJsNKa6PyMcZTWz8Wm/icon.png",
     "decimals": 9,
-    "address": "HBTCNvkwjMsEtwe2PeXUuMcu8C4Hobw6HDP2m6vpWHGo",
+    "address": "41bWR2kDEEbnbE6SFfabJp7PuTYJsNKa6PyMcZTWz8Wm",
     "chainId": 101,
     "tags": [
       "saber-stableswap-lp",
-      "saber-lp-wormhole-v1"
+      "saber-lp-wormhole-v2"
     ],
     "extensions": {
-      "website": "https://app.saber.so/#/pools/hbtc"
+      "website": "https://app.sunny.ag"
     }
   },
   {
-    "symbol": "ahUSDT-USDC",
-    "name": "Saber ahUSDT-USDC LP",
-    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/HLPC9r4gbeP6KagT3qJLzFj7iWcYTJs245k9tuHFQGyR/icon.png",
+    "symbol": "sun-afBTC-renBTC",
+    "name": "Sunny Saber afBTC-renBTC LP",
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/4hEzoSUB1WWXZdwCZQB1iXeSYoEVrc7jwH78RH5LkhpX/icon.png",
     "decimals": 9,
-    "address": "HLPC9r4gbeP6KagT3qJLzFj7iWcYTJs245k9tuHFQGyR",
+    "address": "4hEzoSUB1WWXZdwCZQB1iXeSYoEVrc7jwH78RH5LkhpX",
     "chainId": 101,
     "tags": [
       "saber-stableswap-lp",
       "saber-lp-allbridge"
     ],
     "extensions": {
-      "website": "https://app.saber.so/#/pools/ahusdt"
+      "website": "https://app.sunny.ag"
     }
   },
   {
-    "symbol": "ahBTC-renBTC",
-    "name": "Saber ahBTC-renBTC LP",
-    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/HLPPmd7NzTTNiqKR6rAZYgrH9VhU47kxftecQSk2oD6J/icon.png",
-    "decimals": 9,
-    "address": "HLPPmd7NzTTNiqKR6rAZYgrH9VhU47kxftecQSk2oD6J",
-    "chainId": 101,
-    "tags": [
-      "saber-stableswap-lp",
-      "saber-lp-allbridge"
-    ],
-    "extensions": {
-      "website": "https://app.saber.so/#/pools/ahwbtc"
-    }
-  },
-  {
-    "symbol": "wHUSDv1-USDC",
-    "name": "Saber wHUSD_v1-USDC LP",
-    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/HUSDgP5YieANhAAHD42yivX9aFS1zbodTut2Dvvkj8QS/icon.png",
-    "decimals": 8,
-    "address": "HUSDgP5YieANhAAHD42yivX9aFS1zbodTut2Dvvkj8QS",
-    "chainId": 101,
-    "tags": [
-      "saber-stableswap-lp",
-      "saber-lp-wormhole-v1"
-    ],
-    "extensions": {
-      "website": "https://app.saber.so/#/pools/husd"
-    }
-  },
-  {
-    "symbol": "HUSD-USDC",
-    "name": "Saber HUSD-USDC LP",
-    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/HUSzWddUQbavKn24cjozm65eps8rq9yhNn5edtTLWfdz/icon.png",
-    "decimals": 8,
-    "address": "HUSzWddUQbavKn24cjozm65eps8rq9yhNn5edtTLWfdz",
-    "chainId": 101,
-    "tags": [
-      "saber-stableswap-lp",
-      "saber-lp-wormhole-v2"
-    ],
-    "extensions": {
-      "website": "https://app.saber.so/#/pools/whusd"
-    }
-  },
-  {
-    "symbol": "atLUNA-LUNA",
-    "name": "Saber atLUNA-LUNA LP",
-    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/KWAMdUrCdQ2j1t9S1HD29Z4RxXymXkwSh2c94598amY/icon.png",
-    "decimals": 9,
-    "address": "KWAMdUrCdQ2j1t9S1HD29Z4RxXymXkwSh2c94598amY",
-    "chainId": 101,
-    "tags": [
-      "saber-stableswap-lp",
-      "saber-lp-allbridge",
-      "saber-lp-wormhole-v2"
-    ],
-    "extensions": {
-      "website": "https://app.saber.so/#/pools/atust_wust"
-    }
-  },
-  {
-    "symbol": "LUNA-renLUNA",
-    "name": "Saber LUNA-renLUNA LP",
-    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/LUN1p1dZwSBgTv1JSdn2apdUuLanHKtgNcnpDydVFTU/icon.png",
-    "decimals": 6,
-    "address": "LUN1p1dZwSBgTv1JSdn2apdUuLanHKtgNcnpDydVFTU",
-    "chainId": 101,
-    "tags": [
-      "saber-stableswap-lp",
-      "saber-lp-wormhole-v2"
-    ],
-    "extensions": {
-      "website": "https://app.saber.so/#/pools/wluna"
-    }
-  },
-  {
-    "symbol": "xLUNA-LUNA",
-    "name": "Saber xLUNA-LUNA LP",
-    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/LUNbjQA8GAwotiHPiq9cmdVkEfYgZFGhBFnHhicjZtP/icon.png",
-    "decimals": 6,
-    "address": "LUNbjQA8GAwotiHPiq9cmdVkEfYgZFGhBFnHhicjZtP",
+    "symbol": "sun-xBTC-renBTC",
+    "name": "Sunny Saber xBTC-renBTC LP",
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/4p6x62AjML5ZSUEPWLuYp4Ts17bUeqD5eWtHyGCjBoaB/icon.png",
+    "decimals": 10,
+    "address": "4p6x62AjML5ZSUEPWLuYp4Ts17bUeqD5eWtHyGCjBoaB",
     "chainId": 101,
     "tags": [
       "saber-stableswap-lp",
       "saber-lp-synthetify"
     ],
     "extensions": {
-      "website": "https://app.saber.so/#/pools/xluna"
+      "website": "https://app.sunny.ag"
     }
   },
   {
-    "symbol": "wLUNAv1-renLUNA",
-    "name": "Saber wLUNA_v1-renLUNA LP",
-    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/LUNkiLcb2wxcqULmJvMjuM6YQhpFBadG5KZBe7qBpSE/icon.png",
+    "symbol": "sun-abBUSD-USDC",
+    "name": "Sunny Saber abBUSD-USDC LP",
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/4xtSPhhx28VfiYNiG2A1xs8cTeLYXWjcethpDsUhQd5g/icon.png",
     "decimals": 9,
-    "address": "LUNkiLcb2wxcqULmJvMjuM6YQhpFBadG5KZBe7qBpSE",
+    "address": "4xtSPhhx28VfiYNiG2A1xs8cTeLYXWjcethpDsUhQd5g",
     "chainId": 101,
     "tags": [
       "saber-stableswap-lp",
-      "saber-lp-wormhole-v1"
+      "saber-lp-allbridge"
     ],
     "extensions": {
-      "website": "https://app.saber.so/#/pools/luna"
+      "website": "https://app.sunny.ag"
     }
   },
   {
-    "symbol": "TRYB-TRYB",
-    "name": "Saber TRYB-TRYB LP",
-    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Lirav2gsqs7jL1PFRUBp8uKACT8LYjDBV8c6nzchoer/icon.png",
+    "symbol": "sun-USDTet-USDT",
+    "name": "Sunny Saber USDTet-USDT LP",
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/4z5LnYfPHJEnzgyPKTkdHd2RNDnU6YUpQQsUY8QAL4oR/icon.png",
     "decimals": 6,
-    "address": "Lirav2gsqs7jL1PFRUBp8uKACT8LYjDBV8c6nzchoer",
+    "address": "4z5LnYfPHJEnzgyPKTkdHd2RNDnU6YUpQQsUY8QAL4oR",
     "chainId": 101,
     "tags": [
       "saber-stableswap-lp",
       "saber-lp-wormhole-v2"
     ],
     "extensions": {
-      "website": "https://app.saber.so/#/pools/bilira"
+      "website": "https://app.sunny.ag"
     }
   },
   {
-    "symbol": "MAI-USDC",
-    "name": "Saber MAI-USDC LP",
-    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/MAiP3Zmjhc6NYiCb2xK2893ifvTTDHciCS57Kga39pC/icon.png",
+    "symbol": "sun-USDTbs-USDT",
+    "name": "Sunny Saber USDTbs-USDT LP",
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/56ZJxfGbC5FkMEBHoV7jmEtMsdKjt8Up4Ude33EUdDzt/icon.png",
+    "decimals": 8,
+    "address": "56ZJxfGbC5FkMEBHoV7jmEtMsdKjt8Up4Ude33EUdDzt",
+    "chainId": 101,
+    "tags": [
+      "saber-stableswap-lp",
+      "saber-lp-wormhole-v2"
+    ],
+    "extensions": {
+      "website": "https://app.sunny.ag"
+    }
+  },
+  {
+    "symbol": "sun-BTC-renBTC",
+    "name": "Sunny Saber BTC-renBTC LP",
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/5GiYdSyBkQegpqxsUUHwm4fJjd3qwdaMKt2qxVXUkbQ4/icon.png",
+    "decimals": 8,
+    "address": "5GiYdSyBkQegpqxsUUHwm4fJjd3qwdaMKt2qxVXUkbQ4",
+    "chainId": 101,
+    "tags": [
+      "saber-stableswap-lp"
+    ],
+    "extensions": {
+      "website": "https://app.sunny.ag"
+    }
+  },
+  {
+    "symbol": "sun-pSOL-prtSOL",
+    "name": "Sunny Saber pSOL-prtSOL LP",
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/5mLQTfsdDhXF7s7KYXYcKNSBWxpFVScvLUsi2F6fATMD/icon.png",
     "decimals": 9,
-    "address": "MAiP3Zmjhc6NYiCb2xK2893ifvTTDHciCS57Kga39pC",
+    "address": "5mLQTfsdDhXF7s7KYXYcKNSBWxpFVScvLUsi2F6fATMD",
+    "chainId": 101,
+    "tags": [
+      "saber-stableswap-lp"
+    ],
+    "extensions": {
+      "website": "https://app.sunny.ag"
+    }
+  },
+  {
+    "symbol": "sun-abUSDT-USDT",
+    "name": "Sunny Saber abUSDT-USDT LP",
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/6HRsTKWeBDu7RPGr7nLT5r6ncSiVXE4ehP88jPxMsWxu/icon.png",
+    "decimals": 9,
+    "address": "6HRsTKWeBDu7RPGr7nLT5r6ncSiVXE4ehP88jPxMsWxu",
     "chainId": 101,
     "tags": [
       "saber-stableswap-lp",
       "saber-lp-allbridge"
     ],
     "extensions": {
-      "website": "https://app.saber.so/#/pools/mai"
+      "website": "https://app.sunny.ag"
     }
   },
   {
-    "symbol": "apUSDT-USDT",
-    "name": "Saber apUSDT-USDT LP",
-    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/PLYJZgSkcV8UXTWhTyf2WLCMeBoZum1Y4rXgXkoYiNj/icon.png",
+    "symbol": "sun-apUSDT-USDT",
+    "name": "Sunny Saber apUSDT-USDT LP",
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/6J4zMS6PJ3g5p6s8fd97J3HBJucnk3crZ3yTpaRHd8SQ/icon.png",
     "decimals": 6,
-    "address": "PLYJZgSkcV8UXTWhTyf2WLCMeBoZum1Y4rXgXkoYiNj",
+    "address": "6J4zMS6PJ3g5p6s8fd97J3HBJucnk3crZ3yTpaRHd8SQ",
     "chainId": 101,
     "tags": [
       "saber-stableswap-lp",
       "saber-lp-allbridge"
     ],
     "extensions": {
-      "website": "https://app.saber.so/#/pools/apusdt"
+      "website": "https://app.sunny.ag"
     }
   },
   {
-    "symbol": "pSOL-prtSOL",
-    "name": "Saber pSOL-prtSOL LP",
-    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/PSopTFPXzTRysj2H6W8oTvYBZmJHtRcVaQaDkckifAy/icon.png",
+    "symbol": "sun-TRYB-TRYB",
+    "name": "Sunny Saber TRYB-TRYB LP",
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/6c4RobQAeQWjumKW7F8g32xVC6rYMjtu4KyzkihHMH7i/icon.png",
+    "decimals": 6,
+    "address": "6c4RobQAeQWjumKW7F8g32xVC6rYMjtu4KyzkihHMH7i",
+    "chainId": 101,
+    "tags": [
+      "saber-stableswap-lp",
+      "saber-lp-wormhole-v2"
+    ],
+    "extensions": {
+      "website": "https://app.sunny.ag"
+    }
+  },
+  {
+    "symbol": "sun-UST-CASH",
+    "name": "Sunny Saber UST-CASH LP",
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/6cZWAhDDsKqTrjjekb5KKYDaQomafNAxBbCrpmwW1Qr/icon.png",
+    "decimals": 6,
+    "address": "6cZWAhDDsKqTrjjekb5KKYDaQomafNAxBbCrpmwW1Qr",
+    "chainId": 101,
+    "tags": [
+      "saber-stableswap-lp",
+      "saber-lp-cashio"
+    ],
+    "extensions": {
+      "website": "https://app.sunny.ag"
+    }
+  },
+  {
+    "symbol": "sun-aaWBTC-renBTC",
+    "name": "Sunny Saber aaWBTC-renBTC LP",
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/6f3VcijBEeu1cNWV8BdQzoeAN4daNXpCG44PzwVRbV9Y/icon.png",
     "decimals": 9,
-    "address": "PSopTFPXzTRysj2H6W8oTvYBZmJHtRcVaQaDkckifAy",
+    "address": "6f3VcijBEeu1cNWV8BdQzoeAN4daNXpCG44PzwVRbV9Y",
+    "chainId": 101,
+    "tags": [
+      "saber-stableswap-lp",
+      "saber-lp-allbridge"
+    ],
+    "extensions": {
+      "website": "https://app.sunny.ag"
+    }
+  },
+  {
+    "symbol": "sun-daoSOL-SOL",
+    "name": "Sunny Saber daoSOL-SOL LP",
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7747GKQJBT3HAnrqm7LBB7gV2qnn3A1TkUapoKrPinBj/icon.png",
+    "decimals": 9,
+    "address": "7747GKQJBT3HAnrqm7LBB7gV2qnn3A1TkUapoKrPinBj",
     "chainId": 101,
     "tags": [
       "saber-stableswap-lp"
     ],
     "extensions": {
-      "website": "https://app.saber.so/#/pools/psol"
+      "website": "https://app.sunny.ag"
     }
   },
   {
-    "symbol": "PAI-USDC",
-    "name": "Saber PAI-USDC LP",
-    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/PaiYwHYxr4SsEWox9YmyBNJmxVG7GdauirbBcYGB7cJ/icon.png",
+    "symbol": "sun-PAI-CASH",
+    "name": "Sunny Saber PAI-CASH LP",
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/78zx22DH6towgM7mGT7nZGmnPyJEgVgcSThDDsQRRQgw/icon.png",
     "decimals": 6,
-    "address": "PaiYwHYxr4SsEWox9YmyBNJmxVG7GdauirbBcYGB7cJ",
+    "address": "78zx22DH6towgM7mGT7nZGmnPyJEgVgcSThDDsQRRQgw",
+    "chainId": 101,
+    "tags": [
+      "saber-stableswap-lp",
+      "saber-lp-cashio"
+    ],
+    "extensions": {
+      "website": "https://app.sunny.ag"
+    }
+  },
+  {
+    "symbol": "sun-aaUSDC-USDC",
+    "name": "Sunny Saber aaUSDC-USDC LP",
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7C9hvkE9BqwXbNiqMAejEwLwTCfgxpfzZi5QyLMwDmBv/icon.png",
+    "decimals": 9,
+    "address": "7C9hvkE9BqwXbNiqMAejEwLwTCfgxpfzZi5QyLMwDmBv",
+    "chainId": 101,
+    "tags": [
+      "saber-stableswap-lp",
+      "saber-lp-allbridge"
+    ],
+    "extensions": {
+      "website": "https://app.sunny.ag"
+    }
+  },
+  {
+    "symbol": "sun-abBTCB-renBTC",
+    "name": "Sunny Saber abBTCB-renBTC LP",
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7XHupBYsvWZWNQndVoApd1nwR39dNiLHMiGKa884sFqu/icon.png",
+    "decimals": 9,
+    "address": "7XHupBYsvWZWNQndVoApd1nwR39dNiLHMiGKa884sFqu",
+    "chainId": 101,
+    "tags": [
+      "saber-stableswap-lp",
+      "saber-lp-allbridge"
+    ],
+    "extensions": {
+      "website": "https://app.sunny.ag"
+    }
+  },
+  {
+    "symbol": "sun-acUSD-CASH",
+    "name": "Sunny Saber acUSD-CASH LP",
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7eLgeSahoYzAFBGud9oRkZQwQtDWz5qvho6TMKAwQq5n/icon.png",
+    "decimals": 9,
+    "address": "7eLgeSahoYzAFBGud9oRkZQwQtDWz5qvho6TMKAwQq5n",
+    "chainId": 101,
+    "tags": [
+      "saber-stableswap-lp",
+      "saber-lp-cashio"
+    ],
+    "extensions": {
+      "website": "https://app.sunny.ag"
+    }
+  },
+  {
+    "symbol": "sun-FRAX-UST",
+    "name": "Sunny Saber FRAX-UST LP",
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7grxnj4iEVgbnRhNkiGPdt1EPMR1qZPqkT3eacs1yFxa/icon.png",
+    "decimals": 8,
+    "address": "7grxnj4iEVgbnRhNkiGPdt1EPMR1qZPqkT3eacs1yFxa",
+    "chainId": 101,
+    "tags": [
+      "saber-stableswap-lp",
+      "saber-lp-wormhole-v2"
+    ],
+    "extensions": {
+      "website": "https://app.sunny.ag"
+    }
+  },
+  {
+    "symbol": "sun-wSRMV1-SRM",
+    "name": "Sunny Saber wSRM_V1-SRM LP",
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7jgvLxAqEYKXexwCwBXw9ztxxobe2AS9RuppfGnFXRqw/icon.png",
+    "decimals": 6,
+    "address": "7jgvLxAqEYKXexwCwBXw9ztxxobe2AS9RuppfGnFXRqw",
+    "chainId": 101,
+    "tags": [
+      "saber-stableswap-lp",
+      "saber-lp-wormhole-v1"
+    ],
+    "extensions": {
+      "website": "https://app.sunny.ag"
+    }
+  },
+  {
+    "symbol": "sun-abUSDC-USDC",
+    "name": "Sunny Saber abUSDC-USDC LP",
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/84s5zKAYbMpKm5QEg6JpgbQGse5YsywKuzUaNTUcqGLD/icon.png",
+    "decimals": 9,
+    "address": "84s5zKAYbMpKm5QEg6JpgbQGse5YsywKuzUaNTUcqGLD",
+    "chainId": 101,
+    "tags": [
+      "saber-stableswap-lp",
+      "saber-lp-allbridge"
+    ],
+    "extensions": {
+      "website": "https://app.sunny.ag"
+    }
+  },
+  {
+    "symbol": "sun-JSOL-SOL",
+    "name": "Sunny Saber JSOL-SOL LP",
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/8EsexmQry4D1XpSNdhN8dnxg4ygneUHcTobNzh54HJWs/icon.png",
+    "decimals": 9,
+    "address": "8EsexmQry4D1XpSNdhN8dnxg4ygneUHcTobNzh54HJWs",
     "chainId": 101,
     "tags": [
       "saber-stableswap-lp"
     ],
     "extensions": {
-      "website": "https://app.saber.so/#/pools/usdc_pai"
+      "website": "https://app.sunny.ag"
     }
   },
   {
-    "symbol": "pUSDT-pUSDC",
-    "name": "Saber pUSDT-pUSDC LP",
-    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/PortuzxBGYMQXeNmM9Kc6AtHLBwqSrb6xWwZ4trQ1en/icon.png",
+    "symbol": "sun-aeMIM-UST",
+    "name": "Sunny Saber aeMIM-UST LP",
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/8neVCkhzRGyuQrxsEoMqy8UxotK1Qko7Vsfx15f8Ek1j/icon.png",
+    "decimals": 9,
+    "address": "8neVCkhzRGyuQrxsEoMqy8UxotK1Qko7Vsfx15f8Ek1j",
+    "chainId": 101,
+    "tags": [
+      "saber-stableswap-lp",
+      "saber-lp-allbridge"
+    ],
+    "extensions": {
+      "website": "https://app.sunny.ag"
+    }
+  },
+  {
+    "symbol": "sun-aeFEI-UST",
+    "name": "Sunny Saber aeFEI-UST LP",
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/93vWgVtXR6i4urVaSkvaQXzbBGHAJJyrtCPqc8QegyU3/icon.png",
+    "decimals": 9,
+    "address": "93vWgVtXR6i4urVaSkvaQXzbBGHAJJyrtCPqc8QegyU3",
+    "chainId": 101,
+    "tags": [
+      "saber-stableswap-lp",
+      "saber-lp-allbridge"
+    ],
+    "extensions": {
+      "website": "https://app.sunny.ag"
+    }
+  },
+  {
+    "symbol": "sun-stSOL-SOL",
+    "name": "Sunny Saber stSOL-SOL LP",
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/9dmGtaUzYQisCzwLGJGSRexoLtwkjGZHTu8MDPff5bgP/icon.png",
+    "decimals": 9,
+    "address": "9dmGtaUzYQisCzwLGJGSRexoLtwkjGZHTu8MDPff5bgP",
+    "chainId": 101,
+    "tags": [
+      "saber-stableswap-lp"
+    ],
+    "extensions": {
+      "website": "https://app.sunny.ag"
+    }
+  },
+  {
+    "symbol": "sun-wLUNAv1-renLUNA",
+    "name": "Sunny Saber wLUNA_v1-renLUNA LP",
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/9sE6Rcaf3PBDnLhWTQ7R5sJiu6a3DuKsXFj4FGLK2CpN/icon.png",
+    "decimals": 9,
+    "address": "9sE6Rcaf3PBDnLhWTQ7R5sJiu6a3DuKsXFj4FGLK2CpN",
+    "chainId": 101,
+    "tags": [
+      "saber-stableswap-lp",
+      "saber-lp-wormhole-v1"
+    ],
+    "extensions": {
+      "website": "https://app.sunny.ag"
+    }
+  },
+  {
+    "symbol": "sun-wBUSDv1-USDC",
+    "name": "Sunny Saber wBUSD_v1-USDC LP",
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/9wtUFSgXSSTP28G4QesRGkQxh8r3WW4kw98LZko16hNS/icon.png",
+    "decimals": 9,
+    "address": "9wtUFSgXSSTP28G4QesRGkQxh8r3WW4kw98LZko16hNS",
+    "chainId": 101,
+    "tags": [
+      "saber-stableswap-lp",
+      "saber-lp-wormhole-v1"
+    ],
+    "extensions": {
+      "website": "https://app.sunny.ag"
+    }
+  },
+  {
+    "symbol": "sun-afDAI-USDC",
+    "name": "Sunny Saber afDAI-USDC LP",
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/9yGn47ojzSfw31vxNHijDcP3zaq3fsCopg23sRkpNd6F/icon.png",
+    "decimals": 9,
+    "address": "9yGn47ojzSfw31vxNHijDcP3zaq3fsCopg23sRkpNd6F",
+    "chainId": 101,
+    "tags": [
+      "saber-stableswap-lp",
+      "saber-lp-allbridge"
+    ],
+    "extensions": {
+      "website": "https://app.sunny.ag"
+    }
+  },
+  {
+    "symbol": "sun-aeUSDC-USDC",
+    "name": "Sunny Saber aeUSDC-USDC LP",
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/9zzqeZCX8xA72xFyPW4zt59r1LSfscKuzEpXViwwCi56/icon.png",
+    "decimals": 9,
+    "address": "9zzqeZCX8xA72xFyPW4zt59r1LSfscKuzEpXViwwCi56",
+    "chainId": 101,
+    "tags": [
+      "saber-stableswap-lp",
+      "saber-lp-allbridge"
+    ],
+    "extensions": {
+      "website": "https://app.sunny.ag"
+    }
+  },
+  {
+    "symbol": "sun-xSOL-SOL",
+    "name": "Sunny Saber xSOL-SOL LP",
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/A6uRk8koNtrrnrkgk8GrbCX4c5iHWVxCsSC8a83i5JxQ/icon.png",
+    "decimals": 9,
+    "address": "A6uRk8koNtrrnrkgk8GrbCX4c5iHWVxCsSC8a83i5JxQ",
+    "chainId": 101,
+    "tags": [
+      "saber-stableswap-lp",
+      "saber-lp-synthetify"
+    ],
+    "extensions": {
+      "website": "https://app.sunny.ag"
+    }
+  },
+  {
+    "symbol": "sun-xUSD-USDC",
+    "name": "Sunny Saber xUSD-USDC LP",
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/AUSDK6tzpjBSd7ZJH46wTHAgxaU4Q2CoUSvcFY2fg3fr/icon.png",
     "decimals": 6,
-    "address": "PortuzxBGYMQXeNmM9Kc6AtHLBwqSrb6xWwZ4trQ1en",
+    "address": "AUSDK6tzpjBSd7ZJH46wTHAgxaU4Q2CoUSvcFY2fg3fr",
+    "chainId": 101,
+    "tags": [
+      "saber-stableswap-lp",
+      "saber-lp-synthetify"
+    ],
+    "extensions": {
+      "website": "https://app.sunny.ag"
+    }
+  },
+  {
+    "symbol": "sun-scnSOL-SOL",
+    "name": "Sunny Saber scnSOL-SOL LP",
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/AgSk7jnS9FNK6pLNizVtQvTHJ1NZq2KwkH7vqaPMj3qq/icon.png",
+    "decimals": 9,
+    "address": "AgSk7jnS9FNK6pLNizVtQvTHJ1NZq2KwkH7vqaPMj3qq",
+    "chainId": 101,
+    "tags": [
+      "saber-stableswap-lp"
+    ],
+    "extensions": {
+      "website": "https://app.sunny.ag"
+    }
+  },
+  {
+    "symbol": "sun-pBTC-renBTC",
+    "name": "Sunny Saber pBTC-renBTC LP",
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Ap8BbmNQHhHnMDX7j7YNVa4uV6pdmH2EfVC2tkfdySxk/icon.png",
+    "decimals": 8,
+    "address": "Ap8BbmNQHhHnMDX7j7YNVa4uV6pdmH2EfVC2tkfdySxk",
+    "chainId": 101,
+    "tags": [
+      "saber-stableswap-lp"
+    ],
+    "extensions": {
+      "website": "https://app.sunny.ag"
+    }
+  },
+  {
+    "symbol": "sun-HBTC-renBTC",
+    "name": "Sunny Saber HBTC-renBTC LP",
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/AsmJb6kg7U4a6WYZ6sRGvP9W1eiPbA5hgWiYB39WEjFD/icon.png",
+    "decimals": 8,
+    "address": "AsmJb6kg7U4a6WYZ6sRGvP9W1eiPbA5hgWiYB39WEjFD",
+    "chainId": 101,
+    "tags": [
+      "saber-stableswap-lp",
+      "saber-lp-wormhole-v2"
+    ],
+    "extensions": {
+      "website": "https://app.sunny.ag"
+    }
+  },
+  {
+    "symbol": "sun-ETH-aeWETH",
+    "name": "Sunny Saber ETH-aeWETH LP",
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BAjkwBMsY9T4wiJ8nGeMhg5rkbzo1Qp9Vcvzsh3SjhHf/icon.png",
+    "decimals": 9,
+    "address": "BAjkwBMsY9T4wiJ8nGeMhg5rkbzo1Qp9Vcvzsh3SjhHf",
+    "chainId": 101,
+    "tags": [
+      "saber-stableswap-lp",
+      "saber-lp-allbridge"
+    ],
+    "extensions": {
+      "website": "https://app.sunny.ag"
+    }
+  },
+  {
+    "symbol": "sun-BUSDbs-USDC",
+    "name": "Sunny Saber BUSDbs-USDC LP",
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BCJJbBXo4YoBNsjvgyHeTYBpAa1RenqWUcRDFMgLwEGD/icon.png",
+    "decimals": 8,
+    "address": "BCJJbBXo4YoBNsjvgyHeTYBpAa1RenqWUcRDFMgLwEGD",
+    "chainId": 101,
+    "tags": [
+      "saber-stableswap-lp",
+      "saber-lp-wormhole-v2"
+    ],
+    "extensions": {
+      "website": "https://app.sunny.ag"
+    }
+  },
+  {
+    "symbol": "sun-pUSDT-pUSDC",
+    "name": "Sunny Saber pUSDT-pUSDC LP",
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Bbs6aVcWKq1RcSpMD8XFSvnWwGxuWFpDpQeQhGXp6bhr/icon.png",
+    "decimals": 6,
+    "address": "Bbs6aVcWKq1RcSpMD8XFSvnWwGxuWFpDpQeQhGXp6bhr",
     "chainId": 101,
     "tags": [
       "saber-stableswap-lp",
       "saber-lp-port"
     ],
     "extensions": {
-      "website": "https://app.saber.so/#/pools/port_2pool"
+      "website": "https://app.sunny.ag"
     }
   },
   {
-    "symbol": "prtSOL-SOL",
-    "name": "Saber prtSOL-SOL LP",
-    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/PrsVdKtXDDf6kJQu5Ff6YqmjfE4TZXtBgHM4bjuvRnR/icon.png",
-    "decimals": 9,
-    "address": "PrsVdKtXDDf6kJQu5Ff6YqmjfE4TZXtBgHM4bjuvRnR",
-    "chainId": 101,
-    "tags": [
-      "saber-stableswap-lp"
-    ],
-    "extensions": {
-      "website": "https://app.saber.so/#/pools/prtsol"
-    }
-  },
-  {
-    "symbol": "BTC-renBTC",
-    "name": "Saber BTC-renBTC LP",
-    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/SLPbsNrLHv8xG4cTc4R5Ci8kB9wUPs6yn6f7cKosoxs/icon.png",
-    "decimals": 8,
-    "address": "SLPbsNrLHv8xG4cTc4R5Ci8kB9wUPs6yn6f7cKosoxs",
-    "chainId": 101,
-    "tags": [
-      "saber-stableswap-lp"
-    ],
-    "extensions": {
-      "website": "https://app.saber.so/#/pools/btc"
-    }
-  },
-  {
-    "symbol": "wSRMV1-SRM",
-    "name": "Saber wSRM_V1-SRM LP",
-    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/SRMKjSJpBHJ5gSVTrimci49SnXc1LVkBi9TGF9RNYdp/icon.png",
+    "symbol": "sun-LUNA-renLUNA",
+    "name": "Sunny Saber LUNA-renLUNA LP",
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BtAwcgJ5DZWvvjdfHXZ3T8QiwxUjRbwDgsfqyCpG7yEZ/icon.png",
     "decimals": 6,
-    "address": "SRMKjSJpBHJ5gSVTrimci49SnXc1LVkBi9TGF9RNYdp",
+    "address": "BtAwcgJ5DZWvvjdfHXZ3T8QiwxUjRbwDgsfqyCpG7yEZ",
+    "chainId": 101,
+    "tags": [
+      "saber-stableswap-lp",
+      "saber-lp-wormhole-v2"
+    ],
+    "extensions": {
+      "website": "https://app.sunny.ag"
+    }
+  },
+  {
+    "symbol": "sun-BUSDet-USDC",
+    "name": "Sunny Saber BUSDet-USDC LP",
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/C7wexfRxTm2Vc6szBF7DQDYYnEyZrpCqPbDDUK8Rwphs/icon.png",
+    "decimals": 8,
+    "address": "C7wexfRxTm2Vc6szBF7DQDYYnEyZrpCqPbDDUK8Rwphs",
+    "chainId": 101,
+    "tags": [
+      "saber-stableswap-lp",
+      "saber-lp-wormhole-v2"
+    ],
+    "extensions": {
+      "website": "https://app.sunny.ag"
+    }
+  },
+  {
+    "symbol": "sun-wUSTv1-USDC",
+    "name": "Sunny Saber wUST_v1-USDC LP",
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CBkCh7zmjkWUVopr4t91fcMvs3ScziXf56mHXic5NM7q/icon.png",
+    "decimals": 9,
+    "address": "CBkCh7zmjkWUVopr4t91fcMvs3ScziXf56mHXic5NM7q",
     "chainId": 101,
     "tags": [
       "saber-stableswap-lp",
       "saber-lp-wormhole-v1"
     ],
     "extensions": {
-      "website": "https://app.saber.so/#/pools/srm"
+      "website": "https://app.sunny.ag"
     }
   },
   {
-    "symbol": "scnSOL-SOL",
-    "name": "Saber scnSOL-SOL LP",
-    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/SoCJs5Qw1D3fjGbTqxxovK15FVnYVrwvTbYcBBrZmWj/icon.png",
-    "decimals": 9,
-    "address": "SoCJs5Qw1D3fjGbTqxxovK15FVnYVrwvTbYcBBrZmWj",
+    "symbol": "sun-CASH-USDC",
+    "name": "Sunny Saber CASH-USDC LP",
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CnxwJAg5oroTFDr3NJtEoM954EYH2bNgiswnJcUUa1Vn/icon.png",
+    "decimals": 6,
+    "address": "CnxwJAg5oroTFDr3NJtEoM954EYH2bNgiswnJcUUa1Vn",
     "chainId": 101,
     "tags": [
       "saber-stableswap-lp"
     ],
     "extensions": {
-      "website": "https://app.saber.so/#/pools/socean"
+      "website": "https://app.sunny.ag"
     }
   },
   {
-    "symbol": "mSOL-SOL",
-    "name": "Saber mSOL-SOL LP",
-    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/SoLEao8wTzSfqhuou8rcYsVoLjthVmiXuEjzdNPMnCz/icon.png",
+    "symbol": "sun-abETH-ETH",
+    "name": "Sunny Saber abETH-ETH LP",
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CsNTd8i2zT791CtoGzRbtojraHzfzvS9LrcwYtYQfmsM/icon.png",
     "decimals": 9,
-    "address": "SoLEao8wTzSfqhuou8rcYsVoLjthVmiXuEjzdNPMnCz",
-    "chainId": 101,
-    "tags": [
-      "saber-stableswap-lp"
-    ],
-    "extensions": {
-      "website": "https://app.saber.so/#/pools/msol_sol"
-    }
-  },
-  {
-    "symbol": "USDCet-USDC",
-    "name": "Saber USDCet-USDC LP",
-    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/USDCgfM1psLGhAbx99iPA72mTySvUcVq33qhCJpm65c/icon.png",
-    "decimals": 6,
-    "address": "USDCgfM1psLGhAbx99iPA72mTySvUcVq33qhCJpm65c",
+    "address": "CsNTd8i2zT791CtoGzRbtojraHzfzvS9LrcwYtYQfmsM",
     "chainId": 101,
     "tags": [
       "saber-stableswap-lp",
-      "saber-lp-wormhole-v2"
+      "saber-lp-allbridge"
     ],
     "extensions": {
-      "website": "https://app.saber.so/#/pools/weusdc"
+      "website": "https://app.sunny.ag"
     }
   },
   {
-    "symbol": "USDK-USDC",
-    "name": "Saber USDK-USDC LP",
-    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/USDKKmk1anWU1aEn6GJ6skL3ZvcB9CBAWVkmPGQEHtz/icon.png",
-    "decimals": 8,
-    "address": "USDKKmk1anWU1aEn6GJ6skL3ZvcB9CBAWVkmPGQEHtz",
-    "chainId": 101,
-    "tags": [
-      "saber-stableswap-lp",
-      "saber-lp-wormhole-v2"
-    ],
-    "extensions": {
-      "website": "https://app.saber.so/#/pools/wusdk"
-    }
-  },
-  {
-    "symbol": "USDTet-USDT",
-    "name": "Saber USDTet-USDT LP",
-    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/USDTJZL2vH92K5QeCvQTTzvMXUYAdvk3v46CwZyfsue/icon.png",
-    "decimals": 6,
-    "address": "USDTJZL2vH92K5QeCvQTTzvMXUYAdvk3v46CwZyfsue",
-    "chainId": 101,
-    "tags": [
-      "saber-stableswap-lp",
-      "saber-lp-wormhole-v2"
-    ],
-    "extensions": {
-      "website": "https://app.saber.so/#/pools/weusdt"
-    }
-  },
-  {
-    "symbol": "wUSTv1-USDC",
-    "name": "Saber wUST_v1-USDC LP",
-    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/UST32f2JtPGocLzsL41B3VBBoJzTm1mK1j3rwyM3Wgc/icon.png",
+    "symbol": "sun-wHBTCv1-renBTC",
+    "name": "Sunny Saber wHBTC_v1-renBTC LP",
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/D7fk5ZZasQqXqGdsHaRoxqHkte61ubRN5HyorZddvVGt/icon.png",
     "decimals": 9,
-    "address": "UST32f2JtPGocLzsL41B3VBBoJzTm1mK1j3rwyM3Wgc",
+    "address": "D7fk5ZZasQqXqGdsHaRoxqHkte61ubRN5HyorZddvVGt",
     "chainId": 101,
     "tags": [
       "saber-stableswap-lp",
       "saber-lp-wormhole-v1"
     ],
     "extensions": {
-      "website": "https://app.saber.so/#/pools/ust"
+      "website": "https://app.sunny.ag"
     }
   },
   {
-    "symbol": "UST-USDC",
-    "name": "Saber UST-USDC LP",
-    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/USTCmQpbUGj5iTsXdnTYHZupY1QpftDZhLokSVk6UWi/icon.png",
+    "symbol": "sun-SRMet-SRM",
+    "name": "Sunny Saber SRMet-SRM LP",
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DJZZzNM9wB1vdKj9xRckvgheqKpkvYzDXxNzDrrArLtS/icon.png",
     "decimals": 6,
-    "address": "USTCmQpbUGj5iTsXdnTYHZupY1QpftDZhLokSVk6UWi",
+    "address": "DJZZzNM9wB1vdKj9xRckvgheqKpkvYzDXxNzDrrArLtS",
     "chainId": 101,
     "tags": [
       "saber-stableswap-lp",
       "saber-lp-wormhole-v2"
     ],
     "extensions": {
-      "website": "https://app.saber.so/#/pools/wust"
+      "website": "https://app.sunny.ag"
     }
   },
   {
-    "symbol": "USDTpo-USDT",
-    "name": "Saber USDTpo-USDT LP",
-    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/WLP59xUDvQMQdzC2SgPmZeRF1oj2RSvGZiQLksj4bwj/icon.png",
+    "symbol": "sun-PAI-USDC",
+    "name": "Sunny Saber PAI-USDC LP",
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DMstNxE8CMc3ajCHHZp4VDia8QPQQpHfLBGRfTmeQLUh/icon.png",
     "decimals": 6,
-    "address": "WLP59xUDvQMQdzC2SgPmZeRF1oj2RSvGZiQLksj4bwj",
+    "address": "DMstNxE8CMc3ajCHHZp4VDia8QPQQpHfLBGRfTmeQLUh",
     "chainId": 101,
     "tags": [
-      "saber-stableswap-lp",
-      "saber-lp-wormhole-v2"
+      "saber-stableswap-lp"
     ],
     "extensions": {
-      "website": "https://app.saber.so/#/pools/wpusdt"
+      "website": "https://app.sunny.ag"
     }
   },
   {
-    "symbol": "SRMet-SRM",
-    "name": "Saber SRMet-SRM LP",
-    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/WLP7MDjSKGWxs2s6o2d8JFvvqLJD8KHZpcTAZf9ongE/icon.png",
-    "decimals": 6,
-    "address": "WLP7MDjSKGWxs2s6o2d8JFvvqLJD8KHZpcTAZf9ongE",
-    "chainId": 101,
-    "tags": [
-      "saber-stableswap-lp",
-      "saber-lp-wormhole-v2"
-    ],
-    "extensions": {
-      "website": "https://app.saber.so/#/pools/wsrm"
-    }
-  },
-  {
-    "symbol": "wibBTC-renBTC",
-    "name": "Saber wibBTC-renBTC LP",
-    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/WLP9nwD2FUJyNeKWGEi8QnF1a5G3VC7zM9uCqE1W8tx/icon.png",
-    "decimals": 8,
-    "address": "WLP9nwD2FUJyNeKWGEi8QnF1a5G3VC7zM9uCqE1W8tx",
-    "chainId": 101,
-    "tags": [
-      "saber-stableswap-lp",
-      "saber-lp-wormhole-v2"
-    ],
-    "extensions": {
-      "website": "https://app.saber.so/#/pools/wibbtc"
-    }
-  },
-  {
-    "symbol": "HBTC-renBTC",
-    "name": "Saber HBTC-renBTC LP",
-    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/WLP9zHZ3FcsPAcM891AQBn4ZWyS3wYgddiLPbSyzmDm/icon.png",
-    "decimals": 8,
-    "address": "WLP9zHZ3FcsPAcM891AQBn4ZWyS3wYgddiLPbSyzmDm",
-    "chainId": 101,
-    "tags": [
-      "saber-stableswap-lp",
-      "saber-lp-wormhole-v2"
-    ],
-    "extensions": {
-      "website": "https://app.saber.so/#/pools/whbtc"
-    }
-  },
-  {
-    "symbol": "USDTbs-USDT",
-    "name": "Saber USDTbs-USDT LP",
-    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/WLPAEUgB95YrU7Vk1FVPeSP5C3e66bf63frHRgsyxHv/icon.png",
-    "decimals": 8,
-    "address": "WLPAEUgB95YrU7Vk1FVPeSP5C3e66bf63frHRgsyxHv",
-    "chainId": 101,
-    "tags": [
-      "saber-stableswap-lp",
-      "saber-lp-wormhole-v2"
-    ],
-    "extensions": {
-      "website": "https://app.saber.so/#/pools/wbusdt"
-    }
-  },
-  {
-    "symbol": "FRAX-UST",
-    "name": "Saber FRAX-UST LP",
-    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/WLPGfDvnSsJg888FydDCRKkmKTwu4L3MHjfqBFj5LJD/icon.png",
-    "decimals": 8,
-    "address": "WLPGfDvnSsJg888FydDCRKkmKTwu4L3MHjfqBFj5LJD",
-    "chainId": 101,
-    "tags": [
-      "saber-stableswap-lp",
-      "saber-lp-wormhole-v2"
-    ],
-    "extensions": {
-      "website": "https://app.saber.so/#/pools/frax_ust"
-    }
-  },
-  {
-    "symbol": "acEUR-agEUR",
-    "name": "Saber acEUR-agEUR LP",
-    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/WLPJD4jW6gnWKfwfL5jyJwcxEPHKLMbncNfQwMmkzKz/icon.png",
+    "symbol": "sun-wFTTv1-soFTT",
+    "name": "Sunny Saber wFTT_v1-soFTT LP",
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DNC5KD9PhqSEjbxtqNgYR4BYEFXepYHfi4zNYHu7oYpP/icon.png",
     "decimals": 9,
-    "address": "WLPJD4jW6gnWKfwfL5jyJwcxEPHKLMbncNfQwMmkzKz",
+    "address": "DNC5KD9PhqSEjbxtqNgYR4BYEFXepYHfi4zNYHu7oYpP",
+    "chainId": 101,
+    "tags": [
+      "saber-stableswap-lp",
+      "saber-lp-wormhole-v1"
+    ],
+    "extensions": {
+      "website": "https://app.sunny.ag"
+    }
+  },
+  {
+    "symbol": "sun-DAI-USDC",
+    "name": "Sunny Saber DAI-USDC LP",
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DT26tjv9SEuSrQohJ7vSAVShy3xDqjBazGSciDYdZzNP/icon.png",
+    "decimals": 8,
+    "address": "DT26tjv9SEuSrQohJ7vSAVShy3xDqjBazGSciDYdZzNP",
+    "chainId": 101,
+    "tags": [
+      "saber-stableswap-lp",
+      "saber-lp-wormhole-v2"
+    ],
+    "extensions": {
+      "website": "https://app.sunny.ag"
+    }
+  },
+  {
+    "symbol": "sun-wHUSDv1-USDC",
+    "name": "Sunny Saber wHUSD_v1-USDC LP",
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DYBdnBx81Rr12FNE1rSCe4NWoLjhvVCcM8qYuUmioE6k/icon.png",
+    "decimals": 8,
+    "address": "DYBdnBx81Rr12FNE1rSCe4NWoLjhvVCcM8qYuUmioE6k",
+    "chainId": 101,
+    "tags": [
+      "saber-stableswap-lp",
+      "saber-lp-wormhole-v1"
+    ],
+    "extensions": {
+      "website": "https://app.sunny.ag"
+    }
+  },
+  {
+    "symbol": "sun-soETH-ETH",
+    "name": "Sunny Saber soETH-ETH LP",
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DauSzTYjqWHtQu2eY7TdeFXz4RjB1wqftGdkgheoSfjK/icon.png",
+    "decimals": 8,
+    "address": "DauSzTYjqWHtQu2eY7TdeFXz4RjB1wqftGdkgheoSfjK",
+    "chainId": 101,
+    "tags": [
+      "saber-stableswap-lp",
+      "saber-lp-wormhole-v2"
+    ],
+    "extensions": {
+      "website": "https://app.sunny.ag"
+    }
+  },
+  {
+    "symbol": "sun-USDCpo-USDC",
+    "name": "Sunny Saber USDCpo-USDC LP",
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DfSRa4BVTagZVD8SstHV4b9eHGFAfbkh233kyXGCooTk/icon.png",
+    "decimals": 6,
+    "address": "DfSRa4BVTagZVD8SstHV4b9eHGFAfbkh233kyXGCooTk",
+    "chainId": 101,
+    "tags": [
+      "saber-stableswap-lp",
+      "saber-lp-wormhole-v2"
+    ],
+    "extensions": {
+      "website": "https://app.sunny.ag"
+    }
+  },
+  {
+    "symbol": "sun-acUSD-USDC",
+    "name": "Sunny Saber acUSD-USDC LP",
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DhAqdjjj8aM6wakquwCeVe6KDysShnfz9uud7bHBhHEy/icon.png",
+    "decimals": 9,
+    "address": "DhAqdjjj8aM6wakquwCeVe6KDysShnfz9uud7bHBhHEy",
+    "chainId": 101,
+    "tags": [
+      "saber-stableswap-lp",
+      "saber-lp-allbridge"
+    ],
+    "extensions": {
+      "website": "https://app.sunny.ag"
+    }
+  },
+  {
+    "symbol": "sun-USDC-acUSDC",
+    "name": "Sunny Saber USDC-acUSDC LP",
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DsFMPzEE7F6CG3PJDa5KFFaYEetTwDWxuHe844fMrHz3/icon.png",
+    "decimals": 9,
+    "address": "DsFMPzEE7F6CG3PJDa5KFFaYEetTwDWxuHe844fMrHz3",
+    "chainId": 101,
+    "tags": [
+      "saber-stableswap-lp",
+      "saber-lp-allbridge"
+    ],
+    "extensions": {
+      "website": "https://app.sunny.ag"
+    }
+  },
+  {
+    "symbol": "sun-wibBTC-renBTC",
+    "name": "Sunny Saber wibBTC-renBTC LP",
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Ek7Bb5MwakAUq47JTPqcAduAZMauN8QY9aDQC2rLKHRw/icon.png",
+    "decimals": 8,
+    "address": "Ek7Bb5MwakAUq47JTPqcAduAZMauN8QY9aDQC2rLKHRw",
+    "chainId": 101,
+    "tags": [
+      "saber-stableswap-lp",
+      "saber-lp-wormhole-v2"
+    ],
+    "extensions": {
+      "website": "https://app.sunny.ag"
+    }
+  },
+  {
+    "symbol": "sun-aeDAI-USDC",
+    "name": "Sunny Saber aeDAI-USDC LP",
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EkzoVXTNw489Ru41TjmTemN7hbRgeeCp5KJ4ESTfnBUJ/icon.png",
+    "decimals": 9,
+    "address": "EkzoVXTNw489Ru41TjmTemN7hbRgeeCp5KJ4ESTfnBUJ",
+    "chainId": 101,
+    "tags": [
+      "saber-stableswap-lp",
+      "saber-lp-allbridge"
+    ],
+    "extensions": {
+      "website": "https://app.sunny.ag"
+    }
+  },
+  {
+    "symbol": "sun-ahUSDT-USDC",
+    "name": "Sunny Saber ahUSDT-USDC LP",
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EqUHTBXXy8EYgG8DT9FN9AicbyqVvBC6oENL8TWAmFXA/icon.png",
+    "decimals": 9,
+    "address": "EqUHTBXXy8EYgG8DT9FN9AicbyqVvBC6oENL8TWAmFXA",
+    "chainId": 101,
+    "tags": [
+      "saber-stableswap-lp",
+      "saber-lp-allbridge"
+    ],
+    "extensions": {
+      "website": "https://app.sunny.ag"
+    }
+  },
+  {
+    "symbol": "sun-atLUNA-LUNA",
+    "name": "Sunny Saber atLUNA-LUNA LP",
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EsMgWBqJR8GjYbcwJtoLrYVetdSEaAgqHr2rMPUeEzwF/icon.png",
+    "decimals": 9,
+    "address": "EsMgWBqJR8GjYbcwJtoLrYVetdSEaAgqHr2rMPUeEzwF",
     "chainId": 101,
     "tags": [
       "saber-stableswap-lp",
@@ -994,258 +915,337 @@
       "saber-lp-wormhole-v2"
     ],
     "extensions": {
-      "website": "https://app.saber.so/#/pools/aceur_ageur"
+      "website": "https://app.sunny.ag"
     }
   },
   {
-    "symbol": "BUSDbs-USDC",
-    "name": "Saber BUSDbs-USDC LP",
-    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/WLPR8Sy6Fbnf2sZHVg8Z7uW1QnRThnjhb244kf4ddCS/icon.png",
+    "symbol": "sun-aeFEI-CASH",
+    "name": "Sunny Saber aeFEI-CASH LP",
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/F6Q1FbbDX7jpwZNAnKjUf6JbTRhk5sEJSbKubGgQQNEz/icon.png",
+    "decimals": 9,
+    "address": "F6Q1FbbDX7jpwZNAnKjUf6JbTRhk5sEJSbKubGgQQNEz",
+    "chainId": 101,
+    "tags": [
+      "saber-stableswap-lp",
+      "saber-lp-allbridge"
+    ],
+    "extensions": {
+      "website": "https://app.sunny.ag"
+    }
+  },
+  {
+    "symbol": "sun-xFTT-FTT",
+    "name": "Sunny Saber xFTT-FTT LP",
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/F7tt5sohvc1D4dvn2cmJkD2mR6cwtujWG2naKX8x7L7o/icon.png",
     "decimals": 8,
-    "address": "WLPR8Sy6Fbnf2sZHVg8Z7uW1QnRThnjhb244kf4ddCS",
-    "chainId": 101,
-    "tags": [
-      "saber-stableswap-lp",
-      "saber-lp-wormhole-v2"
-    ],
-    "extensions": {
-      "website": "https://app.saber.so/#/pools/wbusd"
-    }
-  },
-  {
-    "symbol": "USDCbs-USDC",
-    "name": "Saber USDCbs-USDC LP",
-    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/WLPsu8oyn1muh5nimxvBsgo6hh6t5jAdUtZ1VmJkohs/icon.png",
-    "decimals": 8,
-    "address": "WLPsu8oyn1muh5nimxvBsgo6hh6t5jAdUtZ1VmJkohs",
-    "chainId": 101,
-    "tags": [
-      "saber-stableswap-lp",
-      "saber-lp-wormhole-v2"
-    ],
-    "extensions": {
-      "website": "https://app.saber.so/#/pools/wbusdc"
-    }
-  },
-  {
-    "symbol": "USDCpo-USDC",
-    "name": "Saber USDCpo-USDC LP",
-    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/WLPyXq7WRfdWLiP4fvRfSisrfDzLiPmCeVTE6okKQWE/icon.png",
-    "decimals": 6,
-    "address": "WLPyXq7WRfdWLiP4fvRfSisrfDzLiPmCeVTE6okKQWE",
-    "chainId": 101,
-    "tags": [
-      "saber-stableswap-lp",
-      "saber-lp-wormhole-v2"
-    ],
-    "extensions": {
-      "website": "https://app.saber.so/#/pools/wpusdc"
-    }
-  },
-  {
-    "symbol": "soETH-ETH",
-    "name": "Saber soETH-ETH LP",
-    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/WTHPuMavN9HBvgUafjrL65WqQytQHDwnTAmdFB9whXA/icon.png",
-    "decimals": 8,
-    "address": "WTHPuMavN9HBvgUafjrL65WqQytQHDwnTAmdFB9whXA",
-    "chainId": 101,
-    "tags": [
-      "saber-stableswap-lp",
-      "saber-lp-wormhole-v2"
-    ],
-    "extensions": {
-      "website": "https://app.saber.so/#/pools/wheth"
-    }
-  },
-  {
-    "symbol": "xUSD-USDC",
-    "name": "Saber xUSD-USDC LP",
-    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/XUSDfnsgc2QYXRdbPAbMWoXCbBCCspRSvoGJ8o7RV9n/icon.png",
-    "decimals": 6,
-    "address": "XUSDfnsgc2QYXRdbPAbMWoXCbBCCspRSvoGJ8o7RV9n",
+    "address": "F7tt5sohvc1D4dvn2cmJkD2mR6cwtujWG2naKX8x7L7o",
     "chainId": 101,
     "tags": [
       "saber-stableswap-lp",
       "saber-lp-synthetify"
     ],
     "extensions": {
-      "website": "https://app.saber.so/#/pools/xusd"
+      "website": "https://app.sunny.ag"
     }
   },
   {
-    "symbol": "aeDAI-USDC",
-    "name": "Saber aeDAI-USDC LP",
-    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/aeDebgky5BssqgLo426rXoQTmGrAn1JjEXp6aXFNLic/icon.png",
+    "symbol": "sun-ahBTC-renBTC",
+    "name": "Sunny Saber ahBTC-renBTC LP",
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FCMEte9VcGWMsqSb3ur8DM1fwYQVRLY7FaRdqZo6SerE/icon.png",
     "decimals": 9,
-    "address": "aeDebgky5BssqgLo426rXoQTmGrAn1JjEXp6aXFNLic",
+    "address": "FCMEte9VcGWMsqSb3ur8DM1fwYQVRLY7FaRdqZo6SerE",
     "chainId": 101,
     "tags": [
       "saber-stableswap-lp",
       "saber-lp-allbridge"
     ],
     "extensions": {
-      "website": "https://app.saber.so/#/pools/aedai"
+      "website": "https://app.sunny.ag"
     }
   },
   {
-    "symbol": "aeUSDT-USDT",
-    "name": "Saber aeUSDT-USDT LP",
-    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/aeTwxcJhujVCq6rwbJri3s6ViYifsJUCFirMjLHgHZ7/icon.png",
+    "symbol": "sun-wUSDKV1-USDC",
+    "name": "Sunny Saber wUSDK_V1-USDC LP",
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FH91oQqEoGLKhxJx1qQaHD9Jw1ND2KSCibm1Zj8Wj5Kw/icon.png",
     "decimals": 9,
-    "address": "aeTwxcJhujVCq6rwbJri3s6ViYifsJUCFirMjLHgHZ7",
-    "chainId": 101,
-    "tags": [
-      "saber-stableswap-lp",
-      "saber-lp-allbridge"
-    ],
-    "extensions": {
-      "website": "https://app.saber.so/#/pools/aeusdt"
-    }
-  },
-  {
-    "symbol": "acUSD-USDC",
-    "name": "Saber acUSD-USDC LP",
-    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/cUSDDDBZRhpDW7eyUUPMuw6u1SiMnzu6i7movwf5jxk/icon.png",
-    "decimals": 9,
-    "address": "cUSDDDBZRhpDW7eyUUPMuw6u1SiMnzu6i7movwf5jxk",
-    "chainId": 101,
-    "tags": [
-      "saber-stableswap-lp",
-      "saber-lp-allbridge"
-    ],
-    "extensions": {
-      "website": "https://app.saber.so/#/pools/acusd"
-    }
-  },
-  {
-    "symbol": "daoSOL-SOL",
-    "name": "Saber daoSOL-SOL LP",
-    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/monKYjV2bHTjbJVWCCcwhxE8C96sdTKR2HUNUHCjh4z/icon.png",
-    "decimals": 9,
-    "address": "monKYjV2bHTjbJVWCCcwhxE8C96sdTKR2HUNUHCjh4z",
-    "chainId": 101,
-    "tags": [
-      "saber-stableswap-lp"
-    ],
-    "extensions": {
-      "website": "https://app.saber.so/#/pools/monkedao"
-    }
-  },
-  {
-    "symbol": "pBTC-renBTC",
-    "name": "Saber pBTC-renBTC LP",
-    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/pBTCmyG7FaZx4uk3Q2pT5jHKWmWDn84npdc7gZXpQ1x/icon.png",
-    "decimals": 8,
-    "address": "pBTCmyG7FaZx4uk3Q2pT5jHKWmWDn84npdc7gZXpQ1x",
-    "chainId": 101,
-    "tags": [
-      "saber-stableswap-lp"
-    ],
-    "extensions": {
-      "website": "https://app.saber.so/#/pools/pbtc"
-    }
-  },
-  {
-    "symbol": "JSOL-SOL",
-    "name": "Saber JSOL-SOL LP",
-    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/son4WQ39xri8sqMqNQZAEtEEPTuUcCRHg7t1ZcYdkSw/icon.png",
-    "decimals": 9,
-    "address": "son4WQ39xri8sqMqNQZAEtEEPTuUcCRHg7t1ZcYdkSw",
-    "chainId": 101,
-    "tags": [
-      "saber-stableswap-lp"
-    ],
-    "extensions": {
-      "website": "https://app.saber.so/#/pools/jsol"
-    }
-  },
-  {
-    "symbol": "stSOL-SOL",
-    "name": "Saber stSOL-SOL LP",
-    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/stSjCmjQ96BiGhTk8gkU22j1739R8YBQVMq7KXWTqUV/icon.png",
-    "decimals": 9,
-    "address": "stSjCmjQ96BiGhTk8gkU22j1739R8YBQVMq7KXWTqUV",
-    "chainId": 101,
-    "tags": [
-      "saber-stableswap-lp"
-    ],
-    "extensions": {
-      "website": "https://app.saber.so/#/pools/stsol"
-    }
-  },
-  {
-    "symbol": "wUSDKV1-USDC",
-    "name": "Saber wUSDK_V1-USDC LP",
-    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/uSdKg2Cs5bCtFSeNXs7aRVNzZJauX58eCkdsfssxTdW/icon.png",
-    "decimals": 9,
-    "address": "uSdKg2Cs5bCtFSeNXs7aRVNzZJauX58eCkdsfssxTdW",
+    "address": "FH91oQqEoGLKhxJx1qQaHD9Jw1ND2KSCibm1Zj8Wj5Kw",
     "chainId": 101,
     "tags": [
       "saber-stableswap-lp",
       "saber-lp-wormhole-v1"
     ],
     "extensions": {
-      "website": "https://app.saber.so/#/pools/usdk"
+      "website": "https://app.sunny.ag"
     }
   },
   {
-    "symbol": "xBTC-renBTC",
-    "name": "Saber xBTC-renBTC LP",
-    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/xBTCPvRuEuRgz5DuuUd3ju3VP5XtR2Dsu1AxyW9JpXK/icon.png",
-    "decimals": 10,
-    "address": "xBTCPvRuEuRgz5DuuUd3ju3VP5XtR2Dsu1AxyW9JpXK",
-    "chainId": 101,
-    "tags": [
-      "saber-stableswap-lp",
-      "saber-lp-synthetify"
-    ],
-    "extensions": {
-      "website": "https://app.saber.so/#/pools/xbtc"
-    }
-  },
-  {
-    "symbol": "xETH-ETH",
-    "name": "Saber xETH-ETH LP",
-    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/xETH89889mVRwsw9tSUnULsdLUPryTpijagy2YXxWyY/icon.png",
+    "symbol": "sun-wibBTCV1-renBTC",
+    "name": "Sunny Saber wibBTC_V1-renBTC LP",
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FLocut1r4ziUJuWCMjZa875XGkvhErFnEzzZC9sQve4r/icon.png",
     "decimals": 9,
-    "address": "xETH89889mVRwsw9tSUnULsdLUPryTpijagy2YXxWyY",
+    "address": "FLocut1r4ziUJuWCMjZa875XGkvhErFnEzzZC9sQve4r",
     "chainId": 101,
     "tags": [
       "saber-stableswap-lp",
-      "saber-lp-synthetify"
+      "saber-lp-wormhole-v1"
     ],
     "extensions": {
-      "website": "https://app.saber.so/#/pools/xeth"
+      "website": "https://app.sunny.ag"
     }
   },
   {
-    "symbol": "xFTT-FTT",
-    "name": "Saber xFTT-FTT LP",
-    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/xFTTLsMdN28XHtYTTTVWYz5zwXWBm5r1WTuZ7Cc7SyA/icon.png",
+    "symbol": "sun-aaUSDT-USDT",
+    "name": "Sunny Saber aaUSDT-USDT LP",
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FSTaurkQGVAdBbMnjwcUjAVcWaJ7YHAw2ygX6kpfxvfV/icon.png",
+    "decimals": 9,
+    "address": "FSTaurkQGVAdBbMnjwcUjAVcWaJ7YHAw2ygX6kpfxvfV",
+    "chainId": 101,
+    "tags": [
+      "saber-stableswap-lp",
+      "saber-lp-allbridge"
+    ],
+    "extensions": {
+      "website": "https://app.sunny.ag"
+    }
+  },
+  {
+    "symbol": "sun-FRAX-USDC",
+    "name": "Sunny Saber FRAX-USDC LP",
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FU61MFJ8annMSYfA5D2V5DQ3CJ8UUFD9LXHvveSAe4SD/icon.png",
     "decimals": 8,
-    "address": "xFTTLsMdN28XHtYTTTVWYz5zwXWBm5r1WTuZ7Cc7SyA",
+    "address": "FU61MFJ8annMSYfA5D2V5DQ3CJ8UUFD9LXHvveSAe4SD",
     "chainId": 101,
     "tags": [
       "saber-stableswap-lp",
-      "saber-lp-synthetify"
+      "saber-lp-wormhole-v2"
     ],
     "extensions": {
-      "website": "https://app.saber.so/#/pools/xftt"
+      "website": "https://app.sunny.ag"
     }
   },
   {
-    "symbol": "xSOL-SOL",
-    "name": "Saber xSOL-SOL LP",
-    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/xSoLVBNztDTUW8Kou2GJinHoe54Siu9Sk3e2uoU9aUi/icon.png",
-    "decimals": 9,
-    "address": "xSoLVBNztDTUW8Kou2GJinHoe54Siu9Sk3e2uoU9aUi",
+    "symbol": "sun-xLUNA-LUNA",
+    "name": "Sunny Saber xLUNA-LUNA LP",
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FdiKGymZH91TnVuRF3N4bU7tCbKZFtNVNAFBuK5GcRgb/icon.png",
+    "decimals": 6,
+    "address": "FdiKGymZH91TnVuRF3N4bU7tCbKZFtNVNAFBuK5GcRgb",
     "chainId": 101,
     "tags": [
       "saber-stableswap-lp",
       "saber-lp-synthetify"
     ],
     "extensions": {
-      "website": "https://app.saber.so/#/pools/xsol"
+      "website": "https://app.sunny.ag"
+    }
+  },
+  {
+    "symbol": "sun-MAI-USDC",
+    "name": "Sunny Saber MAI-USDC LP",
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FeFQiet6qwZ95AtWxDEn4sypskxe6fmD2pi9muzoR4qy/icon.png",
+    "decimals": 9,
+    "address": "FeFQiet6qwZ95AtWxDEn4sypskxe6fmD2pi9muzoR4qy",
+    "chainId": 101,
+    "tags": [
+      "saber-stableswap-lp",
+      "saber-lp-allbridge"
+    ],
+    "extensions": {
+      "website": "https://app.sunny.ag"
+    }
+  },
+  {
+    "symbol": "sun-USDTpo-USDT",
+    "name": "Sunny Saber USDTpo-USDT LP",
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FqhLqpnoYAiudwkDbjjzkENaDDoJAFDAQXx3eNPbdkF2/icon.png",
+    "decimals": 6,
+    "address": "FqhLqpnoYAiudwkDbjjzkENaDDoJAFDAQXx3eNPbdkF2",
+    "chainId": 101,
+    "tags": [
+      "saber-stableswap-lp",
+      "saber-lp-wormhole-v2"
+    ],
+    "extensions": {
+      "website": "https://app.sunny.ag"
+    }
+  },
+  {
+    "symbol": "sun-aeUSDT-USDT",
+    "name": "Sunny Saber aeUSDT-USDT LP",
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GFT1F4Zr7ETmuZrSmGhMAGk5rvmnD7S9g7nt2JdtwK83/icon.png",
+    "decimals": 9,
+    "address": "GFT1F4Zr7ETmuZrSmGhMAGk5rvmnD7S9g7nt2JdtwK83",
+    "chainId": 101,
+    "tags": [
+      "saber-stableswap-lp",
+      "saber-lp-allbridge"
+    ],
+    "extensions": {
+      "website": "https://app.sunny.ag"
+    }
+  },
+  {
+    "symbol": "sun-USDK-USDC",
+    "name": "Sunny Saber USDK-USDC LP",
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GVxZhiqjdiLSjSKwHtd3Fqf4YgY4vSDsgyzpA5xbq94K/icon.png",
+    "decimals": 8,
+    "address": "GVxZhiqjdiLSjSKwHtd3Fqf4YgY4vSDsgyzpA5xbq94K",
+    "chainId": 101,
+    "tags": [
+      "saber-stableswap-lp",
+      "saber-lp-wormhole-v2"
+    ],
+    "extensions": {
+      "website": "https://app.sunny.ag"
+    }
+  },
+  {
+    "symbol": "sun-apUSDC-USDC",
+    "name": "Sunny Saber apUSDC-USDC LP",
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/HAbFcokDy82JroMCEiy8cKiRiU3FBWjM2mZksTxkDfVK/icon.png",
+    "decimals": 6,
+    "address": "HAbFcokDy82JroMCEiy8cKiRiU3FBWjM2mZksTxkDfVK",
+    "chainId": 101,
+    "tags": [
+      "saber-stableswap-lp",
+      "saber-lp-allbridge"
+    ],
+    "extensions": {
+      "website": "https://app.sunny.ag"
+    }
+  },
+  {
+    "symbol": "sun-wFRAXv1-USDC",
+    "name": "Sunny Saber wFRAX_v1-USDC LP",
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/HQiqXRu3YsoZDSxo73Q3GWDfRKtmm2kS49YixYQ3ojnQ/icon.png",
+    "decimals": 9,
+    "address": "HQiqXRu3YsoZDSxo73Q3GWDfRKtmm2kS49YixYQ3ojnQ",
+    "chainId": 101,
+    "tags": [
+      "saber-stableswap-lp",
+      "saber-lp-wormhole-v1"
+    ],
+    "extensions": {
+      "website": "https://app.sunny.ag"
+    }
+  },
+  {
+    "symbol": "sun-HUSD-USDC",
+    "name": "Sunny Saber HUSD-USDC LP",
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/HS8k4hP9PnLeKL9FYnprbPmUSNBNDm9LoGzZfWcabuAJ/icon.png",
+    "decimals": 8,
+    "address": "HS8k4hP9PnLeKL9FYnprbPmUSNBNDm9LoGzZfWcabuAJ",
+    "chainId": 101,
+    "tags": [
+      "saber-stableswap-lp",
+      "saber-lp-wormhole-v2"
+    ],
+    "extensions": {
+      "website": "https://app.sunny.ag"
+    }
+  },
+  {
+    "symbol": "sun-afUSDC-USDC",
+    "name": "Sunny Saber afUSDC-USDC LP",
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Ha8LwqeXykYH1cUEx9vJgk8Z4MPwvjumNMThx95E8BLw/icon.png",
+    "decimals": 9,
+    "address": "Ha8LwqeXykYH1cUEx9vJgk8Z4MPwvjumNMThx95E8BLw",
+    "chainId": 101,
+    "tags": [
+      "saber-stableswap-lp",
+      "saber-lp-allbridge"
+    ],
+    "extensions": {
+      "website": "https://app.sunny.ag"
+    }
+  },
+  {
+    "symbol": "sun-acEUR-agEUR",
+    "name": "Sunny Saber acEUR-agEUR LP",
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Hn8MQ4erMnJEUkn2oprvg48Ta1f4TSxcTwa5M4USer3Z/icon.png",
+    "decimals": 9,
+    "address": "Hn8MQ4erMnJEUkn2oprvg48Ta1f4TSxcTwa5M4USer3Z",
+    "chainId": 101,
+    "tags": [
+      "saber-stableswap-lp",
+      "saber-lp-allbridge",
+      "saber-lp-wormhole-v2"
+    ],
+    "extensions": {
+      "website": "https://app.sunny.ag"
+    }
+  },
+  {
+    "symbol": "sun-afETH-ETH",
+    "name": "Sunny Saber afETH-ETH LP",
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/HoPyVM4xb2zxBD4YCo6zV2odQeXqAeWuhfxY6UpRc2oA/icon.png",
+    "decimals": 9,
+    "address": "HoPyVM4xb2zxBD4YCo6zV2odQeXqAeWuhfxY6UpRc2oA",
+    "chainId": 101,
+    "tags": [
+      "saber-stableswap-lp",
+      "saber-lp-allbridge"
+    ],
+    "extensions": {
+      "website": "https://app.sunny.ag"
+    }
+  },
+  {
+    "symbol": "sun-mSOL-SOL",
+    "name": "Sunny Saber mSOL-SOL LP",
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/HxkoCQY48GTT7hncTpATncmHwswboitC75bWMviAAgxh/icon.png",
+    "decimals": 9,
+    "address": "HxkoCQY48GTT7hncTpATncmHwswboitC75bWMviAAgxh",
+    "chainId": 101,
+    "tags": [
+      "saber-stableswap-lp"
+    ],
+    "extensions": {
+      "website": "https://app.sunny.ag"
+    }
+  },
+  {
+    "symbol": "sun-xETH-ETH",
+    "name": "Sunny Saber xETH-ETH LP",
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/LDdq4KhNRuGUjno4waam4HTkyftYpeRjC6Rbjtiao8b/icon.png",
+    "decimals": 9,
+    "address": "LDdq4KhNRuGUjno4waam4HTkyftYpeRjC6Rbjtiao8b",
+    "chainId": 101,
+    "tags": [
+      "saber-stableswap-lp",
+      "saber-lp-synthetify"
+    ],
+    "extensions": {
+      "website": "https://app.sunny.ag"
+    }
+  },
+  {
+    "symbol": "sun-UST-USDC",
+    "name": "Sunny Saber UST-USDC LP",
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/TEMs1tdDkvBQ4sdqQdpAQEiJmB48JBcN9qhZou4jmDM/icon.png",
+    "decimals": 6,
+    "address": "TEMs1tdDkvBQ4sdqQdpAQEiJmB48JBcN9qhZou4jmDM",
+    "chainId": 101,
+    "tags": [
+      "saber-stableswap-lp",
+      "saber-lp-wormhole-v2"
+    ],
+    "extensions": {
+      "website": "https://app.sunny.ag"
+    }
+  },
+  {
+    "symbol": "sun-wDAIv1-USDC",
+    "name": "Sunny Saber wDAI_v1-USDC LP",
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/aoooXdSCSi4D3hNtYffJtkktXuy4uPMe4pMJqFkA7XL/icon.png",
+    "decimals": 9,
+    "address": "aoooXdSCSi4D3hNtYffJtkktXuy4uPMe4pMJqFkA7XL",
+    "chainId": 101,
+    "tags": [
+      "saber-stableswap-lp",
+      "saber-lp-wormhole-v1"
+    ],
+    "extensions": {
+      "website": "https://app.sunny.ag"
     }
   }
 ]
