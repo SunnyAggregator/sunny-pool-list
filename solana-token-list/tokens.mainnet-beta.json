@@ -1099,6 +1099,20 @@
     }
   },
   {
+    "symbol": "sun-UXD-USDC",
+    "name": "Sunny Saber UXD-USDC LP",
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/H1SAg8kYngQS6wF452mjSshiAsPhmDMG1nrn14M2dQnc/icon.png",
+    "decimals": 6,
+    "address": "H1SAg8kYngQS6wF452mjSshiAsPhmDMG1nrn14M2dQnc",
+    "chainId": 101,
+    "tags": [
+      "saber-stableswap-lp"
+    ],
+    "extensions": {
+      "website": "https://app.sunny.ag"
+    }
+  },
+  {
     "symbol": "sun-apUSDC-USDC",
     "name": "Sunny Saber apUSDC-USDC LP",
     "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/HAbFcokDy82JroMCEiy8cKiRiU3FBWjM2mZksTxkDfVK/icon.png",

@@ -2,7 +2,7 @@
   "name": "Sunny Pool List (mainnet-beta)",
   "logoURI": "https://raw.githubusercontent.com/SunnyAggregator/sunny-pool-list/master/sunny.svg",
   "tags": {},
-  "timestamp": "2022-01-19T00:52:25.417Z",
+  "timestamp": "2022-01-19T18:38:48.861Z",
   "tokens": [
     {
       "symbol": "sun-USDCbs-USDC",
@@ -1469,6 +1469,25 @@
         "underlyingTokens": [
           "43m2ewFV5nDepieFjT9EmAQnc1HRtAF247RBpLGFem5F",
           "88881Hu2jGMfCs9tMu5Rr7Ah7WBNBuXqde4nR5ZmKYYy"
+        ],
+        "source": "saber"
+      }
+    },
+    {
+      "symbol": "sun-UXD-USDC",
+      "name": "Sunny Saber UXD-USDC LP",
+      "logoURI": "https://raw.githubusercontent.com/SunnyAggregator/sunny-pool-list/master/assets/mainnet/H1SAg8kYngQS6wF452mjSshiAsPhmDMG1nrn14M2dQnc/icon.png",
+      "decimals": 6,
+      "address": "H1SAg8kYngQS6wF452mjSshiAsPhmDMG1nrn14M2dQnc",
+      "chainId": 101,
+      "tags": [
+        "saber-stableswap-lp"
+      ],
+      "extensions": {
+        "website": "https://app.sunny.ag",
+        "underlyingTokens": [
+          "7kbnvuGBxxj8AG9qp8Scn56muWGaRaFqxg1FsRp3PaFT",
+          "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
         ],
         "source": "saber"
       }
