@@ -2,7 +2,7 @@
   "name": "Sunny Pool List (mainnet-beta)",
   "logoURI": "https://raw.githubusercontent.com/SunnyAggregator/sunny-pool-list/master/sunny.svg",
   "tags": {},
-  "timestamp": "2022-02-18T01:03:31.906Z",
+  "timestamp": "2022-03-21T01:08:03.713Z",
   "tokens": [
     {
       "symbol": "sun-USDCbs-USDC",
@@ -1225,12 +1225,12 @@
         "saber-lp-wormhole-v2"
       ],
       "extensions": {
-        "source": "saber",
+        "website": "https://app.sunny.ag",
         "underlyingTokens": [
           "3LKZU3iQx9KM94S4uYRdYwAHTm6odDyzGQqTBNj7J27z",
           "LUNGEjUXyP48nrC1GYY5o4eTAkwm4RdX8BxFUxWJBLB"
         ],
-        "website": "https://app.sunny.ag"
+        "source": "saber"
       }
     },
     {
@@ -1385,12 +1385,12 @@
         "saber-lp-synthetify"
       ],
       "extensions": {
-        "source": "saber",
+        "website": "https://app.sunny.ag",
         "underlyingTokens": [
           "6MeoZEcUMhAB788YXTQN4x7K8MnwSt6RHWsLkuq9GJb2",
           "F6v4wfAdJB8D8p77bMXZgYt8TDKsYxLYxH5AFhUkYx9W"
         ],
-        "website": "https://app.sunny.ag"
+        "source": "saber"
       }
     },
     {
@@ -1484,12 +1484,12 @@
         "saber-stableswap-lp"
       ],
       "extensions": {
-        "source": "saber",
+        "website": "https://app.sunny.ag",
         "underlyingTokens": [
           "7kbnvuGBxxj8AG9qp8Scn56muWGaRaFqxg1FsRp3PaFT",
           "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
         ],
-        "website": "https://app.sunny.ag"
+        "source": "saber"
       }
     },
     {
